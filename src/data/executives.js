@@ -26,8 +26,7 @@ export const EXECUTIVES = [
     roles: ["Vice President"], // Since Winter 2025
     username: "jaharrhy",
     discord: {
-      username: "robbie3598
-",
+      username: "robbie3598",
     },
   },
   {
