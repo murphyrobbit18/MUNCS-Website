@@ -14,19 +14,20 @@ const EXAMPLE = {
 
 export const EXECUTIVES = [
   {
-    name: "Ethan Denny",
-    roles: ["President"], // Until Fall 2025, unless replaced sooner
+    name: "Orin Peddle",
+    roles: ["President"], // Since Winter 2025
     username: "egdenny",
     discord: {
-      username: "ethandenny709",
+      username: "neoquartz",
     },
   },
   {
-    name: "Jack Harrhy",
-    roles: ["Vice President"], // Until Spring 2025, unless replaced sooner
+    name: "Robin Murphy",
+    roles: ["Vice President"], // Since Winter 2025
     username: "jaharrhy",
     discord: {
-      username: "jackharrhy",
+      username: "robbie3598
+",
     },
   },
   {
